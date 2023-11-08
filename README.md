@@ -15,6 +15,9 @@ utilizamos también la libreria de tkinter el cual posee
 ###### Guardar como
 ###### (Permite leer y guardar archivos en mas extensiones que solo en txt)
 
+### El video de nuestro tema es:
+## https://youtu.be/6Ic70MG71pE
+
 ## Python 
 ```python
 import tkinter as tk
